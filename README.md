@@ -1,1 +1,2 @@
-<img width="400" height="225" alt="boothill" src="https://github.com/user-attachments/assets/39475c56-9047-4d9b-9660-02118d6f724b" />
+<p align="center">
+<img width="400" height="225" alt="boothill" src="https://github.com/user-attachments/assets/9721ba36-d30c-4582-b45a-ada7b59ae1c7" />
